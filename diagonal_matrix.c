@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main ()
 {
@@ -21,6 +22,6 @@ for(j=0;j<n;j++)
 printf("elements at a[%d][%d]: %d\n",i,j,a[i][j]);
 }
 }
-printf("diagonal sum is%d\n",sum);
+printf("diagonal sum is %d\n",sum);
 return 0;
 }
