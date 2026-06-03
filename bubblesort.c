@@ -1,3 +1,4 @@
+// C program for implementation of Bubble Sort
 #include<stdio.h>
 void bubblesort(int a[],int n)
 {
@@ -30,7 +31,7 @@ int main()
     printf("sorted array is\n");
     for(int i=0;i<n;i++)
     {
-        printf("%d",a[i]);
+        printf("%d ",a[i]);
     }
     return 0;
 }
