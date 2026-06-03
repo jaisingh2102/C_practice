@@ -18,9 +18,9 @@ for(i=0;i<m;i++)
 {
     for(j=0;j<n;j++)
     {
-        printf("element at s[%d][%d]%d\n:",i,j,s[i][j]);
+        printf("element at s[%d][%d]:%d\n",i,j,s[i][j]);
     }
 }
-printf("the sum of all elements are%d\n",sum);
+printf("the sum of all elements are: %d\n",sum);
 return 0;
 }
