@@ -1,3 +1,4 @@
+// Matrix multiplication in C
 #include <stdio.h>
 int main() {
     int a[50][50], b[50][50], c[50][50], i, j, k, m, n, e, f;
