@@ -1,3 +1,4 @@
+/* linear search */
 #include<stdio.h>
 int linearsearch(int a[],int n,int key)
 {
