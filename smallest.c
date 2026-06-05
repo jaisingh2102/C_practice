@@ -1,3 +1,4 @@
+// C program to find the smallest of three numbers
 #include<stdio.h>
 int main(){
     int a,b,c;
