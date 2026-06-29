@@ -1,3 +1,4 @@
+/* use of selection sort */
 #include<stdio.h>
 void selectionsort(int a[],int n)
 {
