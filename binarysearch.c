@@ -1,3 +1,4 @@
+/*binary search using c language*/
 #include<stdio.h>
 int binarysearch(int a[],int n, int key)
 {
